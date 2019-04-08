@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLevelConnection", "AutoLevelConnection\AutoLevelConnection.csproj", "{F056E1A8-28E9-4795-927C-9B8E3CE98520}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversityADO", "UniversityADO\UniversityADO.csproj", "{5A568945-542D-4CA7-A9A7-AC6EB3594943}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F056E1A8-28E9-4795-927C-9B8E3CE98520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F056E1A8-28E9-4795-927C-9B8E3CE98520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F056E1A8-28E9-4795-927C-9B8E3CE98520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F056E1A8-28E9-4795-927C-9B8E3CE98520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A568945-542D-4CA7-A9A7-AC6EB3594943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A568945-542D-4CA7-A9A7-AC6EB3594943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A568945-542D-4CA7-A9A7-AC6EB3594943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A568945-542D-4CA7-A9A7-AC6EB3594943}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FC0ED0E-2F3C-4B69-8299-7BAB856E1B57}
+	EndGlobalSection
+EndGlobal
